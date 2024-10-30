@@ -93,4 +93,8 @@ Requires: absl-py, etils, glfw, numpy, pyopengl
 Required-by: dm_control
 
 
+https://colab.research.google.com/github/deepmind/dm_control/blob/main/dm_control/mujoco/tutorial.ipynb
+https://www.reddit.com/r/reinforcementlearning/comments/10lbz3s/dm_control_suite_vs_original_environments/
+https://shimmy.farama.org/environments/dm_control/
+
 
